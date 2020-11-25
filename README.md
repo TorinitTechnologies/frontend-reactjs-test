@@ -1,18 +1,18 @@
-# [Torinit Technologies Inc](https://torinit.com) - Frontend technical test
+# [Torinit Technologies Inc](https://torinit.com) - Technical Test
 
-This test is a part of our hiring process at Torinit for [the Frontend Developer position]. It should take you between 3 and 6 hours depending on your experience.
+This test is a part of our hiring process at Torinit for the Frontend Developer position. It should take you between 3 and 6 hours depending on your experience.
 
-**Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter at yatin@torinit.ca**
+**Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter at hr@torinit.com**
 
 ## Summary
 
-The goal of this test is to make you code a small ReactJS app. We have prepared a skeleton app for you, but please change whatever you want (CSS files, HTML structure, JS structure...).
+The goal of this test is to make you code a small app. We have prepared a skeleton app for you, but please change whatever you want.
 
 The app will have two different components:
 - **Activity Feed** - simple list of calls
 - **Activity Detail** - detail of a call
 
-Show us what you can do in 6 hours top :) Don't spend too much time on designing your app, our design team will hate it anyway.
+Show us what you can do in 6 hours top :) Don't spend too much time on designing your app.
 
 **Bonus:** the final user should be able to archive a call. The call will no longer be displayed on the Activity Feed. Please code that only if you have extra time.
 
@@ -61,10 +61,8 @@ As you can see, it's hosted on a free Heroku server, which means that the first 
 - **is_archived** - call is archived or not
 - **call_type** - can be a `missed`, `answered` or `voicemail` call.
 
-
-
 ## Submission
 
-Fork this repository and send us a pull request. We'll review it and get back to you in order to talk about your code!
+Please send the code via zip or rar without packages. We'll review it and get back to you in order to talk about your code!
 
-Contact us at yatin@torinit.ca if you need more details.
+Contact us at hr@torinit.com if you need more details.
