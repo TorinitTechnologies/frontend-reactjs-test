@@ -1,6 +1,6 @@
 # [Torinit Technologies Inc](https://torinit.com) - Technical Test
 
-This test is a part of our hiring process at Torinit for the Frontend Developer position. It should take you between 3 and 6 hours depending on your experience.
+This test is a part of our hiring process at Torinit. It should take you between 3 and 6 hours depending on your experience.
 
 **Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter at hr@torinit.com**
 
@@ -63,6 +63,6 @@ As you can see, it's hosted on a free Heroku server, which means that the first 
 
 ## Submission
 
-Please send the code via zip or rar without packages. We'll review it and get back to you in order to talk about your code!
+Please send the code via zip or rar without packages. We'll review it and get back to you!
 
-Contact us at hr@torinit.com if you need more details.
+Contact us at hr@torinit.com. If you need more details about technical stuff robin@torinit.ca
