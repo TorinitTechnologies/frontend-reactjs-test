@@ -65,4 +65,4 @@ As you can see, it's hosted on a free Heroku server, which means that the first 
 
 Please send the code via zip or rar without packages. We'll review it and get back to you!
 
-Contact us at hr@torinit.com. If you need more details about technical stuff robin@torinit.ca
+Contact us at hr@torinit.com. If you need more details about technical stuff contact us at robin@torinit.ca
