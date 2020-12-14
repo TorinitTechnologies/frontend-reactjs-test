@@ -1,3 +1,5 @@
+**This Test Can Be Used For React JS / React Native / Native Android / Native iOS**
+
 # [Torinit Technologies Inc](https://torinit.com) - Technical Test
 
 This test is a part of our hiring process at Torinit. It should take you between 3 and 6 hours depending on your experience.
